@@ -1,5 +1,5 @@
 # hello-world
 my first program
 Hello guys!
-I am a fresh bird here.
+I am a new programmer here.
 
